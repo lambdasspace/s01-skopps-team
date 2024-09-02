@@ -1,0 +1,32 @@
+Primera Parte:
+
+a):
+  Sintaxis abstracta: correcta.
+  Semántica natural: correcta.
+  Semántica estructural: correcta.
+  Puntuación: 10/10 
+
+b):
+  Sintaxis abstracta: correcta.
+  Semántica natural: correcta.
+  Semántica estructural: correcta.
+  Puntuación: 10/10 
+
+c):
+  Sintaxis abstracta: correcta.
+  Semántica natural: correcta.
+  Semántica estructural: correcta.
+  Puntuación: 10/10 
+
+Segunda parte:
+
+  Grámatica libre de contexto modificada (en notación EBNF)
+  Nuevas reglas de sintaxis abstracta
+  Nuevas reglas de semántica natural y estructural
+
+  Puntuación: 9/10 Retroalimentación: Podría ser útil incluir más ejemplos o aclaraciones sobre cómo las nuevas reglas interactúan con las existentes, incluye ejemplos de cómo estas reglas funcionarían en casos más complejos.
+  
+  Calificación Final:
+  Parte 1: 30/30
+  Parte 2: 9/10
+  Total: 39/40 = 9.75
